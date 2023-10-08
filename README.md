@@ -1,4 +1,4 @@
-# telebot_GPT_3.5_Turbo_DSM_1.0
+# telebot_GPT_3.5_Turbo
 
 
 ## Prerequisites
